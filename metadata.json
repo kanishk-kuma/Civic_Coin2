@@ -1,0 +1,8 @@
+{
+  "name": "CivicCoin - Reward Good Deeds",
+  "description": "A Gov-Tech platform that rewards citizens for Good Samaritan acts with Civic Points and government-backed vouchers.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
